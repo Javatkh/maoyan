@@ -1,21 +1,5 @@
 # maoyan-wap
 
-> A Vue.js project
+> 猫眼电影，包含电影列表、电影影院详情、影院列表、影院详情、电影详情、城市选择和定位、搜索、电影详情、注册登录、找回密码等，很大程度上满足客户使用需求以及页面视觉效果，对提高客户服务效率和客户满意度能够起到较好的作用。这个项目是自己接触Vue之后，把一些移动端很细的技术点都融进这个项目中了。
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
