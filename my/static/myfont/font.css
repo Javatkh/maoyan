@@ -1,0 +1,6 @@
+@font-face {
+    /* 名字 */
+    font-family: 'myfont';
+    /* 文件地址 */
+    src: url('myfont.woff');
+}

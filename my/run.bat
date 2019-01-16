@@ -1,0 +1,2 @@
+echo "maoyanStart"
+npm start
